@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let sharelayer = CAShapeLayer()
+        let label = UILabel()
+        label.layer.mask = sharelayer
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
