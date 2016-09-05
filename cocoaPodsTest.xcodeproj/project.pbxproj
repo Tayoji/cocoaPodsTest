@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		56AFAB6B1D7D1214002FC8CD /* testCocoaPods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AFAB6A1D7D1214002FC8CD /* testCocoaPods.swift */; };
 		56B4437D1D797FB600229979 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B4437C1D797FB600229979 /* AppDelegate.swift */; };
 		56B4437F1D797FB600229979 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B4437E1D797FB600229979 /* ViewController.swift */; };
 		56B443821D797FB700229979 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 56B443801D797FB700229979 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		56AFAB6A1D7D1214002FC8CD /* testCocoaPods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testCocoaPods.swift; sourceTree = "<group>"; };
 		56B443791D797FB600229979 /* cocoaPodsTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cocoaPodsTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B4437C1D797FB600229979 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56B4437E1D797FB600229979 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,9 +76,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		56AFAB691D7D11FF002FC8CD /* test */ = {
+			isa = PBXGroup;
+			children = (
+				56AFAB6A1D7D1214002FC8CD /* testCocoaPods.swift */,
+			);
+			path = test;
+			sourceTree = "<group>";
+		};
 		56B443701D797FB600229979 = {
 			isa = PBXGroup;
 			children = (
+				56AFAB691D7D11FF002FC8CD /* test */,
 				56B4437B1D797FB600229979 /* cocoaPodsTest */,
 				56B443901D797FB700229979 /* cocoaPodsTestTests */,
 				56B4439B1D797FB700229979 /* cocoaPodsTestUITests */,
@@ -258,6 +269,7 @@
 			files = (
 				56B4437F1D797FB600229979 /* ViewController.swift in Sources */,
 				56B4437D1D797FB600229979 /* AppDelegate.swift in Sources */,
+				56AFAB6B1D7D1214002FC8CD /* testCocoaPods.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +496,7 @@
 				56B443A31D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56B443A41D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +505,7 @@
 				56B443A61D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56B443A71D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +514,7 @@
 				56B443A91D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
