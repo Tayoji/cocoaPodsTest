@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = 'cocoaPodsTestqwe'
-s.version = '1.0.0'
+s.version = '1.0.1'
 s.license = { :type => 'Apache License, Version 2.0', :text => <<-LICENSE
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
