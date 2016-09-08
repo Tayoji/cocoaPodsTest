@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		56B443791D797FB600229979 /* cocoaPodsTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cocoaPodsTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		56B443791D797FB600229979 /* cocoaPodsTestqwe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cocoaPodsTestqwe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B4437C1D797FB600229979 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56B4437E1D797FB600229979 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		56B443811D797FB700229979 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		56B443831D797FB700229979 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56B443861D797FB700229979 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		56B443881D797FB700229979 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56B4438D1D797FB700229979 /* cocoaPodsTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cocoaPodsTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		56B4438D1D797FB700229979 /* cocoaPodsTestqwe.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cocoaPodsTestqwe.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B443911D797FB700229979 /* cocoaPodsTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cocoaPodsTestTests.swift; sourceTree = "<group>"; };
 		56B443931D797FB700229979 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56B443981D797FB700229979 /* cocoaPodsTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cocoaPodsTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		56B443981D797FB700229979 /* cocoaPodsTestqwe.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cocoaPodsTestqwe.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56B4439C1D797FB700229979 /* cocoaPodsTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cocoaPodsTestUITests.swift; sourceTree = "<group>"; };
 		56B4439E1D797FB700229979 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -87,9 +87,9 @@
 		56B4437A1D797FB600229979 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				56B443791D797FB600229979 /* cocoaPodsTest.app */,
-				56B4438D1D797FB700229979 /* cocoaPodsTestTests.xctest */,
-				56B443981D797FB700229979 /* cocoaPodsTestUITests.xctest */,
+				56B443791D797FB600229979 /* cocoaPodsTestqwe.app */,
+				56B4438D1D797FB700229979 /* cocoaPodsTestqwe.xctest */,
+				56B443981D797FB700229979 /* cocoaPodsTestqwe.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -128,9 +128,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		56B443781D797FB600229979 /* cocoaPodsTest */ = {
+		56B443781D797FB600229979 /* cocoaPodsTestqwe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56B443A11D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTest" */;
+			buildConfigurationList = 56B443A11D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqwe" */;
 			buildPhases = (
 				56B443751D797FB600229979 /* Sources */,
 				56B443761D797FB600229979 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = cocoaPodsTest;
+			name = cocoaPodsTestqwe;
 			productName = cocoaPodsTest;
-			productReference = 56B443791D797FB600229979 /* cocoaPodsTest.app */;
+			productReference = 56B443791D797FB600229979 /* cocoaPodsTestqwe.app */;
 			productType = "com.apple.product-type.application";
 		};
-		56B4438C1D797FB700229979 /* cocoaPodsTestTests */ = {
+		56B4438C1D797FB700229979 /* cocoaPodsTestqweTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56B443A41D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestTests" */;
+			buildConfigurationList = 56B443A41D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqweTests" */;
 			buildPhases = (
 				56B443891D797FB700229979 /* Sources */,
 				56B4438A1D797FB700229979 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				56B4438F1D797FB700229979 /* PBXTargetDependency */,
 			);
-			name = cocoaPodsTestTests;
+			name = cocoaPodsTestqweTests;
 			productName = cocoaPodsTestTests;
-			productReference = 56B4438D1D797FB700229979 /* cocoaPodsTestTests.xctest */;
+			productReference = 56B4438D1D797FB700229979 /* cocoaPodsTestqwe.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		56B443971D797FB700229979 /* cocoaPodsTestUITests */ = {
+		56B443971D797FB700229979 /* cocoaPodsTestqweUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 56B443A71D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestUITests" */;
+			buildConfigurationList = 56B443A71D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqweUITests" */;
 			buildPhases = (
 				56B443941D797FB700229979 /* Sources */,
 				56B443951D797FB700229979 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				56B4439A1D797FB700229979 /* PBXTargetDependency */,
 			);
-			name = cocoaPodsTestUITests;
+			name = cocoaPodsTestqweUITests;
 			productName = cocoaPodsTestUITests;
-			productReference = 56B443981D797FB700229979 /* cocoaPodsTestUITests.xctest */;
+			productReference = 56B443981D797FB700229979 /* cocoaPodsTestqwe.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 56B443741D797FB600229979 /* Build configuration list for PBXProject "cocoaPodsTest" */;
+			buildConfigurationList = 56B443741D797FB600229979 /* Build configuration list for PBXProject "cocoaPodsTestqwe" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				56B443781D797FB600229979 /* cocoaPodsTest */,
-				56B4438C1D797FB700229979 /* cocoaPodsTestTests */,
-				56B443971D797FB700229979 /* cocoaPodsTestUITests */,
+				56B443781D797FB600229979 /* cocoaPodsTestqwe */,
+				56B4438C1D797FB700229979 /* cocoaPodsTestqweTests */,
+				56B443971D797FB700229979 /* cocoaPodsTestqweUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		56B4438F1D797FB700229979 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 56B443781D797FB600229979 /* cocoaPodsTest */;
+			target = 56B443781D797FB600229979 /* cocoaPodsTestqwe */;
 			targetProxy = 56B4438E1D797FB700229979 /* PBXContainerItemProxy */;
 		};
 		56B4439A1D797FB700229979 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 56B443781D797FB600229979 /* cocoaPodsTest */;
+			target = 56B443781D797FB600229979 /* cocoaPodsTestqwe */;
 			targetProxy = 56B443991D797FB700229979 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -404,7 +404,7 @@
 				INFOPLIST_FILE = cocoaPodsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = cocoaPodsTestqwe;
 			};
 			name = Debug;
 		};
@@ -415,7 +415,7 @@
 				INFOPLIST_FILE = cocoaPodsTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTest;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = cocoaPodsTestqwe;
 			};
 			name = Release;
 		};
@@ -426,8 +426,8 @@
 				INFOPLIST_FILE = cocoaPodsTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTestTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cocoaPodsTest.app/cocoaPodsTest";
+				PRODUCT_NAME = cocoaPodsTestqwe;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cocoaPodsTestqwe.app/cocoaPodsTestqwe";
 			};
 			name = Debug;
 		};
@@ -438,8 +438,8 @@
 				INFOPLIST_FILE = cocoaPodsTestTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTestTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cocoaPodsTest.app/cocoaPodsTest";
+				PRODUCT_NAME = cocoaPodsTestqwe;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cocoaPodsTestqwe.app/cocoaPodsTestqwe";
 			};
 			name = Release;
 		};
@@ -449,7 +449,7 @@
 				INFOPLIST_FILE = cocoaPodsTestUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTestUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = cocoaPodsTestqwe;
 				TEST_TARGET_NAME = cocoaPodsTest;
 			};
 			name = Debug;
@@ -460,7 +460,7 @@
 				INFOPLIST_FILE = cocoaPodsTestUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Tayoji.cocoaPodsTestUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = cocoaPodsTestqwe;
 				TEST_TARGET_NAME = cocoaPodsTest;
 			};
 			name = Release;
@@ -468,7 +468,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		56B443741D797FB600229979 /* Build configuration list for PBXProject "cocoaPodsTest" */ = {
+		56B443741D797FB600229979 /* Build configuration list for PBXProject "cocoaPodsTestqwe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56B4439F1D797FB700229979 /* Debug */,
@@ -477,29 +477,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		56B443A11D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTest" */ = {
+		56B443A11D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqwe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56B443A21D797FB700229979 /* Debug */,
 				56B443A31D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		56B443A41D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestTests" */ = {
+		56B443A41D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqweTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56B443A51D797FB700229979 /* Debug */,
 				56B443A61D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		56B443A71D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestUITests" */ = {
+		56B443A71D797FB700229979 /* Build configuration list for PBXNativeTarget "cocoaPodsTestqweUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				56B443A81D797FB700229979 /* Debug */,
 				56B443A91D797FB700229979 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
