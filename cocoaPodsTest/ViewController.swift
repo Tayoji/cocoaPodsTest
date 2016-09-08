@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let sharelayer = CAShapeLayer()
+        let sharelayer = CAShapeLayer() 
         let label = UILabel()
         label.layer.mask = sharelayer
         

@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|  
-  s.name             = "tyjcocoaPodsTest"  
+  s.name             = "cocoaPodsTest"
   s.version          = "1.0.0"  
-  s.summary          = "A marquee view used on iOS."   
+  s.summary          = "A marquee view used on iOS."
   s.homepage         = "https://github.com/wangzz/WZMarqueeView"  
   # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"  
   s.license          = 'MIT'  
@@ -20,5 +20,5 @@ Pod::Spec.new do |s|
   # s.ios.exclude_files = 'Classes/osx'  
   # s.osx.exclude_files = 'Classes/ios'  
   # s.public_header_files = 'Classes/**/*.h'  
-  s.frameworks = 'UIKit'
+  s.frameworks ='UIKit'
 end
